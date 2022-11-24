@@ -5,15 +5,16 @@ JS Tooling
 Instructions to this assignment can be found [here](https://it3049c.github.io/docs/labs/tooling/).
 
 ## Checklist:
-- [ ] update the assignment checks above to the correct link.
-- [ ] make sure the assignment checks pass
-- [ ] fill out the self evaluation and Reflection
-- [ ] submit the repository link on Canvas
+- [x] update the assignment checks above to the correct link.
+- [x] make sure the assignment checks pass
+- [x] fill out the self evaluation and Reflection
+- [x] submit the repository link on Canvas
 
 ## Self-Evaluation: 
-how many points out of 10 do you deserve on this assignment: 
+how many points out of 10 do you deserve on this assignment: 10/10
 
 ## Self-Reflection:
-
+This one was pretty simple for me, I did have an issue deugging the error in webpack, but looks like the test are passing.
 
 ### How long it took me to finish this?
+4 hours
